@@ -1,0 +1,12 @@
+site_name: TVリモコン XYZ-999 取扱説明書
+
+theme: readthedocs
+
+nav:
+  - index.md
+  - 使い方: how_to_use.md
+  - 注意事項: attention.md
+  - よくある質問: faq.md
+
+markdown_extensions:
+  - admonition
