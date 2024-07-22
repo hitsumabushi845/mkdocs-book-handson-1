@@ -1,0 +1,7 @@
+mkdocs==1.6.0
+
+# Add libraries you want to use
+# mkdocs-material
+# fontawesome-markdown
+# markdown-include
+# pymdown-extensions 
